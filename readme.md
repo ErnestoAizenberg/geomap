@@ -1,4 +1,3 @@
-```markdown
 # GeoMap - Geometric Data Visualization Project
 
 ![Map example](https://github.com/ErnestoAizenberg/entsearch/blob/main/output%2russia_regions_predict.jpg)
@@ -100,4 +99,3 @@ Contributions are welcome! Please open an issue or pull request for any bugs or 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-```
