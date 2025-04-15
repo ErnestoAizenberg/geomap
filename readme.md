@@ -1,6 +1,6 @@
 # GeoMap - Geometric Data Visualization Project
 
-![Map example](https://github.com/ErnestoAizenberg/entsearch/blob/main/output%2russia_regions_predict.jpg)
+![Map example](https://github.com/ErnestoAizenberg/geomap/blob/main/output%2russia_regions_predict.jpg)
 
 ## Description
 
