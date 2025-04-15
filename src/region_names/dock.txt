@@ -1,0 +1,4 @@
+### russia_region_names_translation.json
+{
+    "Москва": "Moskva",
+}
