@@ -16,6 +16,12 @@ GeoMap is project for working with geometric objects and visualizing them on 2D 
 
 ## Installation
 
+Clone the repository:
+
+<pre style="background: #f6f8fa; padding: 15px; border-radius: 5px;">
+git clone https://github.com/ErnestoAizenberg/geomap.git
+</pre>
+
 Install required dependencies using either method:
 
 ### Via requirements.txt
